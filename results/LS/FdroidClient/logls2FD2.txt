@@ -1,0 +1,5 @@
+Gen, Ind, Patch, Valid, Fitness, Time
+-1, |, true, 1537.0, 2023-08-23T10:03:55.608207700Z[UTC]
+0, |, true, 1537.0, 2023-08-23T10:03:58.588676700Z[UTC]
+1, | gin.edit.statement.ClassCacheEdit FD2\app\src\main\java\org\fdroid\fdroid\FDroidApp.java getThreadPoolSize() 0 |, false, 3.4028235E38, 2023-08-23T10:04:26.777506800Z[UTC]
+2, | gin.edit.statement.DeleteStatement FD2\app\src\main\java\org\fdroid\fdroid\FDroidApp.java:1745 |, true, 1537.0, 2023-08-23T10:05:37.328258800Z[UTC]

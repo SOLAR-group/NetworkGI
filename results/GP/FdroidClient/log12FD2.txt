@@ -1,0 +1,2 @@
+Gen, Ind, Patch, Valid, Fitness, Time
+0, |, true, 1537.0, 2023-08-22T17:54:49.914805400Z[UTC]

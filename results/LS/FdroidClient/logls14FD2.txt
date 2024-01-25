@@ -1,0 +1,7 @@
+Gen, Ind, Patch, Valid, Fitness, Time
+-1, |, true, 1537.0, 2023-08-23T10:16:14.852363400Z[UTC]
+0, |, true, 1537.0, 2023-08-23T10:16:16.677153800Z[UTC]
+1, |, true, 1537.0, 2023-08-23T10:16:16.678155900Z[UTC]
+2, | gin.edit.statement.addIfStatementEdit FD2\app\src\main\java\org\fdroid\fdroid\FDroidApp.java:2170:2170 [port >= 1] |, true, 1537.0, 2023-08-23T10:17:55.409655700Z[UTC]
+3, | gin.edit.statement.addIfStatementEdit FD2\app\src\main\java\org\fdroid\fdroid\FDroidApp.java:2170:2170 [port >= 1] | gin.edit.statement.addIfStatementEdit FD2\app\src\main\java\org\fdroid\fdroid\FDroidApp.java:1608:1608 [numTries == 0] |, false, 0.0, 2023-08-23T10:18:07.885396500Z[UTC]
+4, | gin.edit.statement.addIfStatementEdit FD2\app\src\main\java\org\fdroid\fdroid\FDroidApp.java:2170:2170 [port >= 1] |, true, 1537.0, 2023-08-23T10:19:11.651959200Z[UTC]

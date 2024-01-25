@@ -1,0 +1,7 @@
+Gen, Ind, Patch, Valid, Fitness, Time
+-1, |, true, 1537.0, 2023-08-23T10:20:07.360793900Z[UTC]
+0, |, true, 1537.0, 2023-08-23T10:20:09.009513600Z[UTC]
+1, | gin.edit.statement.ClassCacheEdit FD2\app\src\main\java\org\fdroid\fdroid\FDroidApp.java isAcraProcess() 0 |, false, 3.4028235E38, 2023-08-23T10:20:43.360878100Z[UTC]
+2, |  |, false, 3.4028235E38, 2023-08-23T10:20:43.713703800Z[UTC]
+3, | gin.edit.statement.addIfStatementEdit FD2\app\src\main\java\org\fdroid\fdroid\FDroidApp.java:1456:1457 [numTries < 2] |, false, 3.4028235E38, 2023-08-23T10:21:15.621413Z[UTC]
+4, | gin.edit.statement.DeleteStatement FD2\app\src\main\java\org\fdroid\fdroid\FDroidApp.java:1866 |, false, 3.4028235E38, 2023-08-23T10:21:16.126017700Z[UTC]
