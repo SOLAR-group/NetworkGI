@@ -1,6 +1,6 @@
 # Improving Android Network usage
 
-This repository is the accompaniment to the paper: Reducing the Network Usage of Android Applications with Genetic Improvement, for the SSBSE RENE Track 2023.
+This repository is the accompaniment to the paper: On Reducing the Network Usage of Android Applications with Genetic Improvement, accepted to the 13th International Workshop on Genetic Improvement @ ICSE 2024 (https://geneticimprovementofsoftware.com/events/icse2024).
 
 In this repository is the code to instrument http requests made by Android applications, a modified version of the GIDroid framework (https://github.com/SOLAR-group/GIDroid), and the results of our experiments.
 
